@@ -65,7 +65,7 @@ On rebooting, the user will automatically be signed in via the Autologon mechani
     -   stores password, uses that credential to log you in  
   
     -   saves credential as an LSA secret in paged memory  
-  
+  fff
     -   Can only be enabled if BitLocker is enabled  
   
 ## Group Policy: Sign-in last interactive user automatically after a system-initiated restart  
